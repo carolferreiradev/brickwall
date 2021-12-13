@@ -1,26 +1,23 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 
-function App() {
+import { About } from "./components/about";
+import { Deposition } from "./components/deposition";
+import { Form } from "./components/form";
+import { Initiatives } from "./components/initiatives";
+import { Trainer } from "./components/trainer";
+import { Prices } from "./components/prices";
+import { Welcome } from "./components/welcome";
+import 'react-toastify/dist/ReactToastify.css';
+
+export function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Welcome />
+      <About />
+      <Initiatives />
+      <Deposition/>
+      <Trainer />
+      <Prices/>
+      <Form />
+    </>
   );
 }
-
-export default App;
