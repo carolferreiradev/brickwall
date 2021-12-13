@@ -21,9 +21,9 @@ export function Welcome() {
                 <H1>BrickWall</H1>
                 <Paragraph>
                   Fortalecer a educação através de um dos seus principais
-                  pilares: <b>o professor</b>. Através de iniciativas que visam
+                  pilares: <b>o professor</b>. Por meio de iniciativas que visam
                   instruir, conectar e auxiliar os docentes no seu dia a dia
-                  através da tecnologia.
+                  com a ajuda da tecnologia.
                 </Paragraph>
               </div>
             </ImageTitle>
