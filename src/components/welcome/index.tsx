@@ -20,7 +20,7 @@ export function Welcome() {
               <div>
                 <H1>BrickWall</H1>
                 <Paragraph>
-                  Fortelecer a educação através de um dos seus principais
+                  Fortalecer a educação através de um dos seus principais
                   pilares: <b>o professor</b>. Através de iniciativas que visam
                   instruir, conectar e auxiliar os docentes no seu dia a dia
                   através da tecnologia.
