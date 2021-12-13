@@ -1,6 +1,6 @@
 # Iniciativa BrickWall | Desafio DoWhile - Rocketseat
 
-Fortelecer a educação através de um dos seus principais pilares: o professor. Através de iniciativas que visam instruir, conectar e auxiliar os docentes no seu dia a dia através da tecnologia.
+Fortalecer a educação através de um dos seus principais pilares: o professor. Através de iniciativas que visam instruir, conectar e auxiliar os docentes no seu dia a dia através da tecnologia.
 
 ![image](https://github.com/carolferreiradev/brickwall/blob/master/public/screen.png)
 
